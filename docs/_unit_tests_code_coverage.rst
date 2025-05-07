@@ -4,7 +4,7 @@
 
    * - Branch
      - Unit Tests
-   * - `latest <https://github.com/insightindustry/census-geocdoer/tree/master>`_
+   * - `latest <https://github.com/insightindustry/census-geocoder/tree/master>`_
      -
        .. image:: https://travis-ci.com/insightindustry/census-geocoder.svg?branch=master
          :target: https://travis-ci.com/insightindustry/census-geocoder
